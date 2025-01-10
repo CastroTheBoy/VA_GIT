@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|c:\\users\\janso\\desktop\\code\\git\\final_battle\\actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|solutionrelative:actionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|c:\\users\\janso\\desktop\\code\\git\\final_battle\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|solutionrelative:ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|c:\\users\\janso\\desktop\\code\\git\\final_battle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|c:\\users\\janso\\desktop\\code\\git\\final_battle\\battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|solutionrelative:battlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|c:\\users\\janso\\desktop\\code\\git\\final_battle\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|solutionrelative:items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|c:\\users\\janso\\desktop\\code\\git\\final_battle\\bufferwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|solutionrelative:bufferwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|c:\\users\\janso\\desktop\\code\\git\\final_battle\\parties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|solutionrelative:parties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|c:\\users\\janso\\desktop\\code\\git\\final_battle\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|solutionrelative:entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|c:\\users\\janso\\desktop\\code\\git\\final_battle\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A424855A-412C-4F1D-9514-8A7975B9DEC9}|Final Battle.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\Entities.cs",
+              "RelativeDocumentMoniker": "Entities.cs",
+              "ToolTip": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\Entities.cs",
+              "RelativeToolTip": "Entities.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T18:32:22.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BufferWriter.cs",
+              "DocumentMoniker": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\BufferWriter.cs",
+              "RelativeDocumentMoniker": "BufferWriter.cs",
+              "ToolTip": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\BufferWriter.cs",
+              "RelativeToolTip": "BufferWriter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:31:56.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BattleManager.cs",
+              "DocumentMoniker": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\BattleManager.cs",
+              "RelativeDocumentMoniker": "BattleManager.cs",
+              "ToolTip": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\BattleManager.cs",
+              "RelativeToolTip": "BattleManager.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAiwEgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:31:47.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\UI.cs",
+              "RelativeDocumentMoniker": "UI.cs",
+              "ToolTip": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\UI.cs",
+              "RelativeToolTip": "UI.cs",
+              "ViewState": "AQIAAPYAAAAAAAAAAAAAAIAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T15:31:29.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ActionManager.cs",
+              "DocumentMoniker": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\ActionManager.cs",
+              "RelativeDocumentMoniker": "ActionManager.cs",
+              "ToolTip": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\ActionManager.cs",
+              "RelativeToolTip": "ActionManager.cs",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAAAIkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T22:41:08.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Parties.cs",
+              "DocumentMoniker": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\Parties.cs",
+              "RelativeDocumentMoniker": "Parties.cs",
+              "ToolTip": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\Parties.cs",
+              "RelativeToolTip": "Parties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T22:27:43.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\Items.cs",
+              "RelativeDocumentMoniker": "Items.cs",
+              "ToolTip": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\Items.cs",
+              "RelativeToolTip": "Items.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAASwE8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T22:27:41.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-03-16T22:27:40.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\janso\\Desktop\\Code\\GIT\\Final_Battle\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T22:27:39.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
