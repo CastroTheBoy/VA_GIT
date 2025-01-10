@@ -36,7 +36,7 @@
 import psycopg2, configparser
 
 def execute_sql_from_file(cursor, file_name):
-    cursor.execute(open('DataBaseDDL.sql', 'r').read())
+    cursor.execute(open(file_name, 'r').read())
     return cursor
 
 def execute_sql_command(cursor, sql):
@@ -61,7 +61,6 @@ def get_config(file_name):
 db_login = get_config('config.ini')
 conn = get_conn('GameData', db_login[0], db_login[1])
 cursor = conn.cursor()
-cursor.execute
 
 try:
     execute_sql_from_file(cursor, 'DataBaseDDL.sql')
