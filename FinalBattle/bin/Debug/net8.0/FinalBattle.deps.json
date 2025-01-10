@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FinalBattle/1.0.0": {
+        "runtime": {
+          "FinalBattle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinalBattle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
